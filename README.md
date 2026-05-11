@@ -133,11 +133,11 @@ This project helped in gaining hands-on experience with ServiceNow ITSM workflow
 
 ---
 
-## 👩‍💻 Developed By
+### 👨‍💻 Developed By
 Thalamanchi Lavanya
 
-## 📂 Project Type
-Individual Learning Project
+### 🚀 Category
+ServiceNow ITSM Project
 
-## 📅 Year
-2026
+### 🖥️ Deployment Date
+May 10, 2026
